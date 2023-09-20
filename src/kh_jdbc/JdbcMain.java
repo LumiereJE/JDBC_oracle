@@ -30,7 +30,7 @@ public class JdbcMain {
                 case 4 :
                 case 5 :
                     System.out.println("메뉴를 종료 합니다.");
-                    return;             // 깃 안됨 ㅠㅠㅠ
+                    return;
             }
         }
     }
